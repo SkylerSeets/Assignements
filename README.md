@@ -4,9 +4,9 @@ Hi! My name is Skyler Seets and I'm from Minnetonka, Minnesota, though my family
 
 
 ![](image5.jpeg)
-Orientation                     : Rotate 90 CW
 
 These are my assignments for DATA100: 
 
 1. [Plot of Running Boy](exercise1.md)
 2. [Complex Plot](exercise2.md)
+3. [Challenge Plot]
