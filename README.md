@@ -11,3 +11,4 @@ These are my assignments for DATA100:
 2. [Complex Plot](exercise2.md)
 3. [Challenge Plot](exercise3.md)
 4. [Data Management Basics](exercise4.md)
+5. [Data Science Reflection 1] (reflection1.md)
