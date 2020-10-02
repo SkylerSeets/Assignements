@@ -10,6 +10,9 @@ Projects have been spurred on by the Connectome, as well. Purdue University’s 
 
 Sources:
 http://www.humanconnectomeproject.org/about/?_ga=2.25804925.116322079.1601602846-1804485912.1601602846
+
 https://www.purdue.edu/newsroom/releases/2018/Q2/mapping-the-brain-with-data-science.html
+
 https://en.wikipedia.org/wiki/Connectome
+
 https://www.nature.com/articles/s41598-018-25089-1?_ga=2.27321596.116322079.1601602846-1804485912.1601602846
