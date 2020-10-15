@@ -19,3 +19,5 @@ These are my assignments for DATA100:
 10. [Project 2 Part 2](exercise9.md)
 11. [Project 2 Part 3](exercise10.md)
 12. [Project 3 Part 1](exercise11.md)
+13. [Project 3 Part 2](exercise12.md)
+14. [Project 3 Part 3](exercise13.md)
