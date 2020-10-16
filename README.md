@@ -21,3 +21,4 @@ These are my assignments for DATA100:
 12. [Project 3 Part 1](exercise11.md)
 13. [Project 3 Part 2](exercise12.md)
 14. [Project 3 Part 3](exercise13.md)
+15. [Data Science Reflection 3](exercise14.md)
