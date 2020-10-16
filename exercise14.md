@@ -5,3 +5,13 @@ There are two main concepts involved in this process. The first is called persis
 ![](persistence.PNG)
 The second concept is topological simplification, also known as Mapper. The goal of this method is to form a sort of topological skeleton that highlights differences in structure and function of behavioral pathways. It is important in order to select features that will be used for classification and filtering of data. This is a good tool for visualizing data, as it constructs a 1-dimensional model of the structure of the data. 
 ![](simplification.PNG)
+
+
+Sources:
+https://link.springer.com/article/10.1007/s11299-020-00226-4
+https://en.wikipedia.org/wiki/Persistent_homology
+https://towardsdatascience.com/persistent-homology-with-examples-1974d4b9c3d0
+https://files.eric.ed.gov/fulltext/EJ1149275.pdf
+
+Images from:
+https://files.eric.ed.gov/fulltext/EJ1149275.pdf
