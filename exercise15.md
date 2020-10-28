@@ -10,7 +10,7 @@ For the next part of this project, I did the same method, except I used the log 
 
 ## Stretch Goal Two
 For this part, I did a similar method to the last, however this time I combined the colored regions of adm2, adding in a third midpoint color (blue to yellow to red with a midpoint value of 10), along with the bolder outline of adm1. In addition, I included the adm1 names as well with an alpha of 0.35 so they did not conflict with those of adm2. Finally, I added a title, subtitle, and a background color. 
-![](ltu_pop19_2.PNG)
+![](ltu_pop19_2.png)
 
 ## Stretch Goal Three
 The last part of this challenge was to create a rotating 3-D image. For this section, I downloaded the rgl and rayshader packages. After creating an object indicating the information I wanted plotted, I used the plot_gg and render_movie functions to create a rotating 3-D image, before finally converting it into a gif using an online editor.
