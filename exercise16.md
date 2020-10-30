@@ -1,0 +1,14 @@
+# Data Science Reflection 4: XGBoost
+
+
+	XGBoost is a type of machine learning model that is gaining widespread popularity in data science. It is different from regular machine learning models because, rather than use a single model on the dataset or apply many models to the data set individually that were each trained independently, instead it works so that each model not only builds on, but corrects the errors of the previous. While this is still a method that combines many different models for a single output, it works more as an additive or iterative process where it adds on these corrective models until no further improvements can be made. It is based on decision-tree methods and the process is called Boosting. Gradient boosting is a form of boosting where the added models are specifically designed to predict the errors of previous ones. XGBoost (short for “Extreme Gradient Boost”) builds off of Gradient boosting to optimize its efficiency, using parallel processing, regularization, and “tree-pruning” (a name based on the base method of a “decision tree” that means to simplify or compress a decision tree).
+	In order to use XGBoost, the process is essentially like using a package in a coding language. You install xgboost, load up the data you are working with, and then begin. Some important features of this include parameters, where you can specify things like which booster you are using, the maximum depth of the decision tree that you are training, object, classes in the data set, the learning rate, minimum reduction created by a new node (if a new node does not reduce by a certain threshold, it will not be created at all), and type of model. After defining parameters, it is possible to train, test, and evaluate models. 
+	There are many different applications that XGBoost is being used for. It has found a lot of use and won many Kaggle competitions. In addition, there is research into using it in professional settings. For example, a group of Canadian economists published a paper describing how the method can be used to forecast Canadian GDP growth. They first trained 5000 to 15000 models and ensured that the only the best features continued on as new models weeded out the errors of old, before using Principal Component Analysis (PCA)--a technique that works to reduce the dimensionality of data sets while minimizing information loss--to select the optimal predictors out of those given by XGBoost. They found that this method was highly superior in predicting GDP growth than previous methods they had encountered. 
+
+Sources:
+https://ideas.repec.org/p/car/carecp/20-14.html
+https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0202
+https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d
+https://xgboost.readthedocs.io/en/latest/parameter.html
+https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7
+
